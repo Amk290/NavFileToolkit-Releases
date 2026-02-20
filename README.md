@@ -84,7 +84,7 @@ The hierarchy editor lets you reorder this chain per-sector. Green entries are c
 
 MIT License
 
-Copyright (c) 2026 Keegan McKim / Amk290
+Copyright (c) 2026 Keegan McKim / Eh290
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
